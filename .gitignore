@@ -1,0 +1,11 @@
+server/node_modules
+client/node_modules
+server/src/config/passdb
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
